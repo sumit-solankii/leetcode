@@ -9,7 +9,6 @@ public:
                 }
                 n--;
                 i--;
-
             }
         }
         return n;
