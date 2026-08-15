@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sumit-solankii/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sumit-solankii/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sumit-solankii/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/sumit-solankii/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sumit-solankii/leetcode/tree/master/1672-richest-customer-wealth) |
 | [3731-find-missing-elements](https://github.com/sumit-solankii/leetcode/tree/master/3731-find-missing-elements) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sumit-solankii/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sumit-solankii/leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/sumit-solankii/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/sumit-solankii/leetcode/tree/master/2235-add-two-integers) |
 ## String
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sumit-solankii/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sumit-solankii/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sumit-solankii/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/sumit-solankii/leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sumit-solankii/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sumit-solankii/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/sumit-solankii/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sumit-solankii/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -106,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumit-solankii/leetcode/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
