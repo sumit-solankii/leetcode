@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumit-solankii/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sumit-solankii/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/sumit-solankii/leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/sumit-solankii/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sumit-solankii/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/sumit-solankii/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sumit-solankii/leetcode/tree/master/0136-single-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sumit-solankii/leetcode/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/sumit-solankii/leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/sumit-solankii/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sumit-solankii/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sumit-solankii/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sumit-solankii/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/sumit-solankii/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sumit-solankii/leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/sumit-solankii/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
