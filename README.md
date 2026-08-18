@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sumit-solankii/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sumit-solankii/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sumit-solankii/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sumit-solankii/leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/sumit-solankii/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sumit-solankii/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sumit-solankii/leetcode/tree/master/0169-majority-element) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sumit-solankii/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sumit-solankii/leetcode/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/sumit-solankii/leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/sumit-solankii/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -154,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sumit-solankii/leetcode/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/sumit-solankii/leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
