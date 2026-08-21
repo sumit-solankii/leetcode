@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sumit-solankii/leetcode/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/sumit-solankii/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sumit-solankii/leetcode/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/sumit-solankii/leetcode/tree/master/1920-build-array-from-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sumit-solankii/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/sumit-solankii/leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -164,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sumit-solankii/leetcode/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/sumit-solankii/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sumit-solankii/leetcode/tree/master/0867-transpose-matrix) |
+| [1920-build-array-from-permutation](https://github.com/sumit-solankii/leetcode/tree/master/1920-build-array-from-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sumit-solankii/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
