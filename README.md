@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sumit-solankii/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sumit-solankii/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sumit-solankii/leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/sumit-solankii/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sumit-solankii/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sumit-solankii/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/sumit-solankii/leetcode/tree/master/0169-majority-element) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sumit-solankii/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sumit-solankii/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sumit-solankii/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sumit-solankii/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sumit-solankii/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/sumit-solankii/leetcode/tree/master/2235-add-two-integers) |
