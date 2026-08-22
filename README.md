@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sumit-solankii/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/sumit-solankii/leetcode/tree/master/0414-third-maximum-number) |
+| [0682-baseball-game](https://github.com/sumit-solankii/leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/sumit-solankii/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sumit-solankii/leetcode/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/sumit-solankii/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sumit-solankii/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sumit-solankii/leetcode/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/sumit-solankii/leetcode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sumit-solankii/leetcode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/sumit-solankii/leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/sumit-solankii/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sumit-solankii/leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/sumit-solankii/leetcode/tree/master/1920-build-array-from-permutation) |
