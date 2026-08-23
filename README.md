@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sumit-solankii/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/sumit-solankii/leetcode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/sumit-solankii/leetcode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/sumit-solankii/leetcode/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sumit-solankii/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sumit-solankii/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/sumit-solankii/leetcode/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sumit-solankii/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1927-sum-game](https://github.com/sumit-solankii/leetcode/tree/master/1927-sum-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,8 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sumit-solankii/leetcode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/sumit-solankii/leetcode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sumit-solankii/leetcode/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/sumit-solankii/leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
