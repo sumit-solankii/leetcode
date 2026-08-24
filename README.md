@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/sumit-solankii/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sumit-solankii/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sumit-solankii/leetcode/tree/master/0877-stone-game) |
+| [1470-shuffle-the-array](https://github.com/sumit-solankii/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/sumit-solankii/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/sumit-solankii/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sumit-solankii/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
