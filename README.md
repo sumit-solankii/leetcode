@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sumit-solankii/leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/sumit-solankii/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sumit-solankii/leetcode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/sumit-solankii/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/sumit-solankii/leetcode/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sumit-solankii/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sumit-solankii/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/sumit-solankii/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/sumit-solankii/leetcode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/sumit-solankii/leetcode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/sumit-solankii/leetcode/tree/master/2235-add-two-integers) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sumit-solankii/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sumit-solankii/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/sumit-solankii/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## String Matching
 |  |
 | ------- |
