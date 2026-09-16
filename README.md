@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sumit-solankii/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sumit-solankii/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sumit-solankii/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sumit-solankii/leetcode/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/sumit-solankii/leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/sumit-solankii/leetcode/tree/master/0832-flipping-an-image) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sumit-solankii/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/sumit-solankii/leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sumit-solankii/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sumit-solankii/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/sumit-solankii/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0832-flipping-an-image](https://github.com/sumit-solankii/leetcode/tree/master/0832-flipping-an-image) |
 ## Math
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sumit-solankii/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sumit-solankii/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sumit-solankii/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-solankii/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sumit-solankii/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sumit-solankii/leetcode/tree/master/3731-find-missing-elements) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sumit-solankii/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sumit-solankii/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sumit-solankii/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sumit-solankii/leetcode/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/sumit-solankii/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sumit-solankii/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sumit-solankii/leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sumit-solankii/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/sumit-solankii/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## String Matching
 |  |
