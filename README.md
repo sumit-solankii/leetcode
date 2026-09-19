@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sumit-solankii/leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/sumit-solankii/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/sumit-solankii/leetcode/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/sumit-solankii/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/sumit-solankii/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sumit-solankii/leetcode/tree/master/0877-stone-game) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sumit-solankii/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/sumit-solankii/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sumit-solankii/leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/sumit-solankii/leetcode/tree/master/0326-power-of-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-solankii/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
