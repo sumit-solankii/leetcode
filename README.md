@@ -283,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sumit-solankii/leetcode/tree/master/0100-same-tree) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/sumit-solankii/leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
