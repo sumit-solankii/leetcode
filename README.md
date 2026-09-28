@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sumit-solankii/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sumit-solankii/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sumit-solankii/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/sumit-solankii/leetcode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/sumit-solankii/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sumit-solankii/leetcode/tree/master/0326-power-of-three) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sumit-solankii/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sumit-solankii/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sumit-solankii/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit-solankii/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/sumit-solankii/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/sumit-solankii/leetcode/tree/master/0196-delete-duplicate-emails) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sumit-solankii/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
