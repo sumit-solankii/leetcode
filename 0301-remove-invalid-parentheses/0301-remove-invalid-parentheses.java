@@ -1,0 +1,66 @@
+class Solution {
+    public List<String> removeInvalidParentheses(String s) {
+        List<String> ans = new ArrayList<>();
+        Set<String> visited = new HashSet<>();
+        Queue<String> q = new LinkedList<>();
+
+        q.add(s);
+        visited.add(s);
+
+        boolean found = false;
+
+        while (!q.isEmpty()) {
+
+            String str = q.poll();
+
+            if (isValid(str)) {
+                ans.add(str);
+                found = true;
+            }
+
+            // If valid strings are found at this level,
+            // don't generate strings with more removals.
+            if (found) {
+                continue;
+            }
+
+            for (int i = 0; i < str.length(); i++) {
+
+                // Remove only '(' or ')'
+                if (str.charAt(i) != '(' && str.charAt(i) != ')') {
+                    continue;
+                }
+
+                String next = str.substring(0, i) + str.substring(i + 1);
+
+                if (!visited.contains(next)) {
+                    visited.add(next);
+                    q.add(next);
+                }
+            }
+        }
+
+        return ans;
+    }
+
+    private boolean isValid(String s) {
+
+        int count = 0;
+
+        for (char c : s.toCharArray()) {
+
+            if (c == '(') {
+                count++;
+            } 
+            else if (c == ')') {
+                count--;
+
+                if (count < 0) {
+                    return false;
+                }
+            }
+        }
+
+        return count == 0;
+    }
+}
