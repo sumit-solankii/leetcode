@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sumit-solankii/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/sumit-solankii/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sumit-solankii/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumit-solankii/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sumit-solankii/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-solankii/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sumit-solankii/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sumit-solankii/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sumit-solankii/leetcode/tree/master/0414-third-maximum-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sumit-solankii/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumit-solankii/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3731-find-missing-elements](https://github.com/sumit-solankii/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sumit-solankii/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/sumit-solankii/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sumit-solankii/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumit-solankii/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String Matching
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sumit-solankii/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sumit-solankii/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/sumit-solankii/leetcode/tree/master/1927-sum-game) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumit-solankii/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumit-solankii/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sumit-solankii/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
