@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sumit-solankii/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sumit-solankii/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sumit-solankii/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sumit-solankii/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sumit-solankii/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-solankii/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sumit-solankii/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sumit-solankii/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit-solankii/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sumit-solankii/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-solankii/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sumit-solankii/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sumit-solankii/leetcode/tree/master/3731-find-missing-elements) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sumit-solankii/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/sumit-solankii/leetcode/tree/master/0832-flipping-an-image) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sumit-solankii/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sumit-solankii/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/sumit-solankii/leetcode/tree/master/1927-sum-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sumit-solankii/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sumit-solankii/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
