@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sumit-solankii/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sumit-solankii/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sumit-solankii/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sumit-solankii/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sumit-solankii/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sumit-solankii/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/sumit-solankii/leetcode/tree/master/0414-third-maximum-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sumit-solankii/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sumit-solankii/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sumit-solankii/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sumit-solankii/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/sumit-solankii/leetcode/tree/master/1927-sum-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sumit-solankii/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sumit-solankii/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sumit-solankii/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
