@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sumit-solankii/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sumit-solankii/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sumit-solankii/leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/sumit-solankii/leetcode/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/sumit-solankii/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/sumit-solankii/leetcode/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/sumit-solankii/leetcode/tree/master/0856-score-of-parentheses) |
@@ -423,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sumit-solankii/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sumit-solankii/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
