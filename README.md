@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sumit-solankii/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sumit-solankii/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sumit-solankii/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/sumit-solankii/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sumit-solankii/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sumit-solankii/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sumit-solankii/leetcode/tree/master/0136-single-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sumit-solankii/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumit-solankii/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/sumit-solankii/leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/sumit-solankii/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sumit-solankii/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sumit-solankii/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sumit-solankii/leetcode/tree/master/0141-linked-list-cycle) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sumit-solankii/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sumit-solankii/leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/sumit-solankii/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sumit-solankii/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sumit-solankii/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumit-solankii/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -470,4 +473,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sumit-solankii/leetcode/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sumit-solankii/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sumit-solankii/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
