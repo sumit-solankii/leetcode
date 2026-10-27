@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/sumit-solankii/leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sumit-solankii/leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sumit-solankii/leetcode/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/sumit-solankii/leetcode/tree/master/1122-relative-sort-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sumit-solankii/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1254-number-of-closed-islands](https://github.com/sumit-solankii/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1470-shuffle-the-array](https://github.com/sumit-solankii/leetcode/tree/master/1470-shuffle-the-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sumit-solankii/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumit-solankii/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumit-solankii/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1122-relative-sort-array](https://github.com/sumit-solankii/leetcode/tree/master/1122-relative-sort-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sumit-solankii/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sumit-solankii/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sumit-solankii/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sumit-solankii/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/sumit-solankii/leetcode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/sumit-solankii/leetcode/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/sumit-solankii/leetcode/tree/master/1122-relative-sort-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sumit-solankii/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sumit-solankii/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sumit-solankii/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -473,12 +476,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sumit-solankii/leetcode/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/sumit-solankii/leetcode/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sumit-solankii/leetcode/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/sumit-solankii/leetcode/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sumit-solankii/leetcode/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/sumit-solankii/leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
